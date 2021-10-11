@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sommerfeldphillip@gmail.com
+	name = Phillip Sommerfeld
